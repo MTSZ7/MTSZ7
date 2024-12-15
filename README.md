@@ -1,11 +1,12 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Matheus 👋
 
-Sou um desenvolvedor apaixonado por [sua área de atuação, ex: web development, machine learning, etc.]. Aqui estão algumas informações sobre mim:
+Sou um desenvolvedor apaixonado por programar algumas coisa, mais estou na fase de iniciante ainda
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 - Linguagens: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Frameworks: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- Ferramentas: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
 
 ## 🌟 Projetos em Destaque
 - [Projeto 1](link-do-projeto-1) - Uma breve descrição do projeto 1.
