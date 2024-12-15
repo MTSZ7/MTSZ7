@@ -6,9 +6,9 @@
 
 
 ## 🌟 Projetos em Destaque
-- [Projeto 1]() - Uma breve descrição do projeto 1.
-- [Projeto 2]() - Uma breve descrição do projeto 2.
-- [Projeto 3]() - Uma breve descrição do projeto 3.
+- [Projeto 1](https://github.com/MTSZ7/szz7/tree/main/terror%20da%20net) - Site CSS-HTML.
+- [Projeto 2](https://github.com/MTSZ7/szz7/tree/main/Bonde%20do%20saco%20tudo%2Cbloqueia%20nada) - Site HTML-CSS
+- [Projeto 3](https://github.com/MTSZ7/szz7/tree/main/td3) - Site HTML-CSS-JAVASCRIT 
 
 ## 📊 Status do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
