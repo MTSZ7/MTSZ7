@@ -28,7 +28,7 @@
 ## 📫 Redes
 
 - Pinteres: [Conta-primaria](https://br.pinterest.com/mts7w/) | [Conta-segundaria](https://br.pinterest.com/tcar7w/)
-- Twitter: [Twitter](https://x.com/Mts7sz)
+- Twitter: [Twitter](https://x.com/Mts7sz?t=-OAkwDw-4fLuRh9fxGnvVg&s=09)
 
 ## 💬 Sobre Mim
 Sou apaixonado por [interesses pessoais ou hobbies]. Sempre em busca de aprender novas tecnologias e colaborar com projetos interessantes!
