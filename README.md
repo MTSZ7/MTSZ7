@@ -25,10 +25,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MTSZ7&show_icons=true" />
 </picture>
 
-## 📫 Como me encontrar
-- E-mail: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [Seu LinkedIn](link-do-linkedin)
-- Twitter: [@SeuTwitter](link-do-twitter)
+## 📫 Redes
+
+- Pinteres: [Conta-primaria](https://br.pinterest.com/mts7w/) | [Conta-segundaria](https://br.pinterest.com/tcar7w/)
+- Twitter: [Twitter](https://x.com/Mts7sz)
 
 ## 💬 Sobre Mim
 Sou apaixonado por [interesses pessoais ou hobbies]. Sempre em busca de aprender novas tecnologias e colaborar com projetos interessantes!
