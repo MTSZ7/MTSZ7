@@ -31,6 +31,7 @@
 - Twitter: [Twitter](https://x.com/Mts7sz?t=-OAkwDw-4fLuRh9fxGnvVg&s=09)
 - Instagram: [Instagram](https://www.instagram.com/mts7w/profilecard/?igsh=MTNtdW5nMDIwYjVhZg%3D%3D)
 - Spotify: [Spotify](https://open.spotify.com/user/31vyu3uw665kpmixtq5dozgtsire?si=CySlRZw7R0-JYxP80ig9pQ&nd=1&dlsi=1540f8fd80d14008)
+- Telegram [Telegram](https://t.me/mtts777)
 
 ## 💬 Sobre Mim
 Sou apaixonado por [interesses pessoais ou hobbies]. Sempre em busca de aprender novas tecnologias e colaborar com projetos interessantes!
