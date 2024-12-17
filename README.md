@@ -34,4 +34,4 @@
 - Telegram [Telegram](https://t.me/mtts777)
 
 ## 💬 Sobre Mim
-Sou apaixonado por [interesses pessoais ou hobbies]. Sempre em busca de aprender novas tecnologias e colaborar com projetos interessantes!
+Gosto de programação e sou de exatas
