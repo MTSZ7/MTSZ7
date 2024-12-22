@@ -32,6 +32,3 @@
 - Instagram: [Instagram](https://www.instagram.com/mts7w/profilecard/?igsh=MTNtdW5nMDIwYjVhZg%3D%3D)
 - Spotify: [Spotify](https://open.spotify.com/user/31vyu3uw665kpmixtq5dozgtsire?si=CySlRZw7R0-JYxP80ig9pQ&nd=1&dlsi=1540f8fd80d14008)
 - Telegram [Telegram](https://t.me/mtts777)
-
-## 💬 Sobre Mim
-Gosto de programação e sou de exatas
