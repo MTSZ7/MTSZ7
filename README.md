@@ -30,7 +30,7 @@
 - Pinteres: [Conta-primaria](https://br.pinterest.com/mts7w/) | [Conta-segundaria](https://br.pinterest.com/tcar7w/)
 - Twitter: [Twitter](https://x.com/Mts7sz?t=-OAkwDw-4fLuRh9fxGnvVg&s=09)
 - Instagram: [Instagram](https://www.instagram.com/mts7w/profilecard/?igsh=MTNtdW5nMDIwYjVhZg%3D%3D)
-- Spotify: [Spotify](https://open.spotify.com/user/31vyu3uw665kpmixtq5dozgtsire?si=CySlRZw7R0-JYxP80ig9pQ&nd=1&dlsi=1540f8fd80d14008) | [playlist](https://open.spotify.com/playlist/44xu2kgOeFRX8FyUv5qWUn?si=d4439a6a2ca646b0)
+- Spotify: [Spotify](https://open.spotify.com/user/31vyu3uw665kpmixtq5dozgtsire?si=CySlRZw7R0-JYxP80ig9pQ&nd=1&dlsi=1540f8fd80d14008) | [Playlist](https://open.spotify.com/playlist/44xu2kgOeFRX8FyUv5qWUn?si=d4439a6a2ca646b0)
 - Telegram [Telegram](https://t.me/mtts777)
 - MonkeyType [MonkeyType](https://monkeytype.com/profile/77mtss)
 
