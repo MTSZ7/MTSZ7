@@ -35,5 +35,4 @@
 - Twitter: [Twitter](https://x.com/Mts7sz?t=-OAkwDw-4fLuRh9fxGnvVg&s=09)
 - Instagram: [Instagram](https://www.instagram.com/mts7w/profilecard/?igsh=MTNtdW5nMDIwYjVhZg%3D%3D)
 - Telegram [Telegram](https://t.me/mtts777)
-- MonkeyType [MonkeyType](https://monkeytype.com/profile/77mtss)
 
