@@ -13,20 +13,10 @@
 
 ## 📊 Status do GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MTSZ7&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MTSZ7&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MTSZ7&show_icons=true" />
-</picture>
+<img src="https://raw.githubusercontent.com/MTSZ7/MTSZ7/output/snake.svg" alt="Snake animation" />
 
 ## 🎶 PlayList
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31erbjetcwmcrqjml3msuz7e5zeq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/playlist/44xu2kgOeFRX8FyUv5qWUn)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31erbjetcwmcrqjml3msuz7e5zeq&unique={true|1|on|yes})
 
 
 ## 📫 Redes
