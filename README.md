@@ -17,7 +17,7 @@
 
 ## 🎶 PlayList
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31erbjetcwmcrqjml3msuz7e5zeq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=48a545&bar_color_cover=false)](https://open.spotify.com/user/31erbjetcwmcrqjml3msuz7e5zeq)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cd3sfpdz44mwqabf3gc5hqn3da&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📫 Redes
 
