@@ -11,6 +11,11 @@
 - [Projeto 2](https://github.com/MTSZ7/szz7/tree/main/Bonde%20do%20saco%20tudo%2Cbloqueia%20nada) - Site HTML-CSS
 - [Projeto 3](https://github.com/MTSZ7/szz7/tree/main/td3) - Site HTML-CSS-JAVASCRIPT
 
+## MEU SITE
+
+[![VISITE MEU SITE AGORA MESMO](https://img.shields.io/badge/VISITE_MEU_SITE_AGORA_MESMO-00AA55?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://guns.lol/menrdesacato0.com)
+
+
 ## 📊 Status do GitHub
 
 <img src="https://raw.githubusercontent.com/MTSZ7/MTSZ7/output/snake.svg" alt="Snake animation" />
