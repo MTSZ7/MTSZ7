@@ -13,7 +13,7 @@
 
 ## MEU SITE
 
-[![VISITE MEU SITE AGORA MESMO](https://img.shields.io/badge/VISITE_MEU_SITE_AGORA_MESMO-00AA55?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://guns.lol/menrdesacato0.com)
+[![VISITE MEU SITE AGORA MESMO](https://img.shields.io/badge/VISITE_MEU_SITE_AGORA_MESMO-00AA55?style=for-the-badge&logo=webcomponents.org&logoColor=white)](https://guns.lol/menrdesacato0)
 
 
 ## 📊 Status do GitHub
